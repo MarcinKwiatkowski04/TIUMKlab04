@@ -1,0 +1,16 @@
+#text{
+    margin: 20px 0;
+    font-size: 20px;
+    border-bottom: 1px solid black;
+    text-align: left;
+}
+
+div{
+    width: 100%;
+    height: auto;
+    font-size: 20px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+}
